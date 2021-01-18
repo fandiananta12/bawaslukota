@@ -1,0 +1,43 @@
+body {
+    font-family: 'Tahoma';
+}
+
+.nav-item {
+    margin-right: 50px;
+}
+
+.nav-link {
+    font-size: 17px;
+    color: rgb(17, 17, 17);
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+#divisi {
+    background-color: transparent;
+    margin-left: 10px;
+}
+
+.body {
+    margin-top: 40px;
+    width: 100%;
+    background-color: #FF8101;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    color: white;
+}
+
+.footer {
+    background-color: #DC6F00;
+    color: white;
+}
+
+.sosmed {
+    transition: .3s;
+}
+
+.sosmed img:hover {
+    transform: scale(0.8);
+}
